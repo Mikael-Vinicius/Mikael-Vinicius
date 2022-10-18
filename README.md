@@ -7,7 +7,7 @@
 
 - Alguns dos meus Projetos. [https://github.com/Mikael-Vinicius](https://github.com/Mikael-Vinicius)
 
-- email **mikaelvinimarques@hotmail.com**
+- Contato **mikaelvinimarques@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
