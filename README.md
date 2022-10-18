@@ -1,4 +1,4 @@
-<h1 align="center">olá 👋, Me chamo Mikael Vinicius Marques Pereira</h1>
+<h1 align="center">olá 👋, Mikael Vinicius Marques Pereira</h1>
 <h3 align="center">Uma pessoa apaixonada por programaçao</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikael-vinicius" alt="mikael-vinicius" /></a> </p>
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mikael vinicius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikael vinicius" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mikael-vinicius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikael-vinicius" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
