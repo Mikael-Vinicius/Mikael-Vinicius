@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikael-vinicius" alt="mikael-vinicius" /></a> </p>
 
-- Eu estou atualmente aprendendo **React, Redux**
+- Eu estou atualmente aprendendo **Solid, Back-end**
 
 - Alguns dos meus Projetos. [https://github.com/Mikael-Vinicius](https://github.com/Mikael-Vinicius)
 
